@@ -21,6 +21,7 @@ img {
 span {
     font-size: 2rem;
     font-weight: 500;
+    align-items: center;
 }
 
 ul {
@@ -39,4 +40,11 @@ a {
     background-color: red;
     color: #fff;
     text-decoration: none;
+}
+
+a:hover {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 20px;
 }
