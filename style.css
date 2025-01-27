@@ -21,3 +21,13 @@ span {
     font-size: 2rem;
     font-weight: 500;
 }
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.5rem;
+    list-style: none;
+}
+li {
+    margin-right: 10px;
+}
